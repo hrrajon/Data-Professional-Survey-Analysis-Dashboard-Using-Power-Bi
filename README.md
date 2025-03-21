@@ -10,8 +10,7 @@ Analysis of data professionals' survey results focusing on:
 - Work satisfaction metrics
 
 ## 🗃️ Data Sources
-- **Primary Dataset**: [Specify your data source here]
-- **Data Collection Period**: [Add dates if available]
+- **Primary Dataset**: Survey data that i found from youtube.
 - **Sample Size**: 630 respondents
 
 ## 🧹 Data Cleaning (Power Query)
